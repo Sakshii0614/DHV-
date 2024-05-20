@@ -15,7 +15,6 @@ This project is focused on data visualization techniques to explore and understa
 
 ### Prerequisites
 
-- Python 3.x
 - Colab Notebook
 - Required Python packages (listed in `requirements.txt`)
 
